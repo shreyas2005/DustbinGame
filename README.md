@@ -1,1 +1,2 @@
-# DustbinGame
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
